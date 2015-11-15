@@ -8,8 +8,8 @@ include("inc/header.php");
   <div class="wrapper">
       <h1>Contact</h1>
       <p>
-        I'd love to hear from you! Complete the form, I would love to hear from you!</p>
-        <form method="post">
+        Complete the form, I would love to hear from you!</p>
+        <form method="post" action="contact-process.php">
           <table>
             <tr>
               <th>
